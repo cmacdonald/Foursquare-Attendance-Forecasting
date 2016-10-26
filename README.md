@@ -39,6 +39,7 @@ R packages:
 * tools
 * parallel
 * forecast
+* jsonlite
 
 ## Setup
 
